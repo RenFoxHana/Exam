@@ -1,0 +1,15 @@
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Bochagova\src\Solution\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+D:\Bochagova\src\Solution\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
