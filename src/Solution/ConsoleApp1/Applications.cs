@@ -55,7 +55,7 @@ namespace ConsoleApp1
             Console.WriteLine("Отсортированный список по убыванию 'Производитель + Цена'.");
             foreach (App app in Apps)
             {
-                Console.WriteLine($"Название: {app.Name} ,стоимость {app.Cost} ,производитель {app.Creator}");
+                Console.WriteLine($"Название: {app.Name}, стоимость: {app.Cost}, производитель: {app.Creator}.");
             }
             Console.WriteLine("Для продолжения нажмите любую клавишу.");
             Console.ReadKey();
