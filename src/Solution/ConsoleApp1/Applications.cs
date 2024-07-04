@@ -42,7 +42,7 @@ namespace ConsoleApp1
                 Console.ReadKey();
                 Console.Clear();
             }
-            Console.WriteLine($"Продукты успешно добавлены в количестве {Apps.Count} шт.");
+            Console.WriteLine($"Программы успешно добавлены в количестве {Apps.Count} шт.");
             Console.WriteLine("Для продолжения нажмите любую клавишу.");
             Console.ReadKey();
             Console.Clear();

@@ -11,7 +11,7 @@ namespace ConsoleApp1
             bool flag = true;
             while (flag)
             {
-                Console.WriteLine("Введите размер массива продуктов.");
+                Console.WriteLine("Введите размер массива программ.");
                 if (!int.TryParse(Console.ReadLine(), out listSize) || listSize <= 0)
                     Console.WriteLine("Введите положительное число.");
                 else
